@@ -1,4 +1,4 @@
-# Elixir/Phoenix Example Project
+# Python/Flask Example Project
 
 [Flask](https://flask.palletsprojects.com/en/3.0.x/) is a microframework for Python web services. This repo is an example project for use with [Jetify Cloud](https://www.jetify.com/cloud)
 
